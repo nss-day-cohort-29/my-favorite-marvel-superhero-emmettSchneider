@@ -1,0 +1,14 @@
+body {
+    background-color: #A2CD48;
+    margin: auto;
+    max-width: 500px;
+    text-align: center;
+}
+h1 {
+    color: purple;
+    text-justify: center;
+}
+p {
+    color: purple;
+    text-justify: center;
+}
